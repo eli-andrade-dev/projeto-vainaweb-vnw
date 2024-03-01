@@ -5,6 +5,10 @@
     list-style: none;
 }
 
+header{
+    background-color: rgb(236, 202, 4);
+    height: 15vh;
+}
 header h2{
     color: blue;
 }
@@ -12,6 +16,18 @@ header h2{
 ul{
     width: 20vw;
     display: flex;
-    justify-content: space-evenly;
+    justify-content: space-around;
+    width: 60vw;
+}
+
+h2{
+    display: flex;
+    justify-content: center;
+   
+}
+nav{
+display: flex;
+justify-content: center;
+margin-top: 20px;
 }
 

@@ -1,7 +1,8 @@
 import React from 'react'
+import "../Main/Main.css"
 
 export const Main = () => {
   return (
-    <div>Main</div>
+    <div class="corpo">Main</div>
   )
 }

@@ -4,8 +4,9 @@ import "./Header.css"
 function Header(){
   return (
     <header>
-
+      
       <h2>Hamburgueria</h2>
+      
       <nav>
         <ul>
           <li>Home</li>
